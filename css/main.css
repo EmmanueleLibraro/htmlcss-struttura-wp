@@ -30,17 +30,23 @@ body{
     margin-top: 10px;
 }
 
-/* Per-float */
+/* Per-float-fix */
 .clearfix::after{
     content: '';
     display: table;
     clear: both;
 }
 
+
 /* Colonna-1 */
 .colonne{
     height: 50px;
     background: lightblue;
+    float: left;
+    margin-left: 25px;
+    width: 30%;
+    height: 325px;
+    margin-top: 10px;
 }
 
 
@@ -55,3 +61,4 @@ footer{
     height: 30px;
     margin-top: 10px;
 }
+    
