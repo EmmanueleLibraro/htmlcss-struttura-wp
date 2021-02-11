@@ -38,18 +38,36 @@ body{
 }
 
 
-/* Colonna-1 */
+/* Colonna */
 .colonne{
     height: 50px;
     background: lightblue;
     float: left;
     margin-left: 25px;
     width: 30%;
-    height: 325px;
+    height: 330px;
     margin-top: 10px;
 }
 
 
+.colonne-2{
+    height: 50px;
+    background: lightblue;
+    float: left;
+    width: 33%;
+    height: 330px;
+    margin-top: 10px;
+}
+
+.colonne-3{
+    height: 50px;
+    background: lightblue;
+    float: left;
+    margin-left: 25px;
+    width: 30%;
+    height: 330px;
+    margin-top: 10px;
+}
 /* Testo-fase2 */
 .barra1{
     height: 50px;
