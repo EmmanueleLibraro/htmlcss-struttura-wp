@@ -49,7 +49,7 @@ body{
     margin-top: 10px;
 }
 
-
+/* Colonna-1 */
 .colonne-1{
     height: 50px;
     background: lightblue;
@@ -59,6 +59,7 @@ body{
     margin-top: 10px;
 }
 
+/* Colonna-2 */
 .colonne-2{
     height: 50px;
     background: lightblue;
@@ -69,6 +70,7 @@ body{
     margin-left: 20px;
 }
 
+/* Colonna-3 */
 .colonne-3{
     height: 50px;
     background: lightblue;
@@ -85,6 +87,7 @@ body{
     background: lightblue;
 }
 
+/* Footer */
 footer{
     background: purple;
     height: 30px;
