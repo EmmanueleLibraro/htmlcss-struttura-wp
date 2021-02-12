@@ -54,7 +54,7 @@ body{
     height: 50px;
     background: lightblue;
     float: left;
-    width: 30%;
+    width: 20%;
     height: 330px;
     margin-top: 10px;
 }
@@ -64,10 +64,9 @@ body{
     height: 50px;
     background: lightblue;
     float: left;
-    width: 30%;
+    width: 56%;
     height: 330px;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin: 1% 2%;
 }
 
 /* Colonna-3 */
@@ -75,10 +74,9 @@ body{
     height: 50px;
     background: lightblue;
     float: left;
-    width: 30%;
+    width: 20%;
     height: 330px;
     margin-top: 10px;
-    margin-left: 20px;
 }
 
 /* Testo-fase2 */
